@@ -1,5 +1,5 @@
 ![MaterHead](https://img.freepik.com/free-vector/it-specialist-set-isolated-compositions-with-flat-computer-screens-connection-icons-doodle-human-characters_1284-54911.jpg?w=1380&t=st=1704944813~exp=1704945413~hmac=cc8319bbcaf03378ad62c7a20d1e6dc077d5b6fddb1659c56fc3994e5f03a016)
-<h1 align="center">Hi 👋, I'm Anusha G Shanbhag</h1>
+<h1 align="center">Hi 👋, I'm Anusha</h1>
 <h3 align="center">Exploring Tech and coding!</h3>
 <img align="right" alt="Coding" width="400" src="https://images.lemonly.com/wp-content/uploads/2018/08/07150313/Homebase_Thumb_v01.gif">
 
